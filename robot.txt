@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proyectosolaronline.github.io/pollos-rostizados-vizarron-queretaro/sitemap.xml
